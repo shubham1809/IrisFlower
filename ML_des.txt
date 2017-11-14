@@ -45,3 +45,8 @@ petal width
 python is ismple to write code and give various library for development of model.
 numpy,pand,matplotlib,scikit learn are most popular library is used in ml model.
 
+
+How K Nearest neighbour algo work
+-----------------------------------------
+it calculate euclidian distance of two instance.
+dis=sqrt((x2-x1)^2+()
