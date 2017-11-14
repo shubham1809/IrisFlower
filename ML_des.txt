@@ -1,0 +1,44 @@
+python labs
+
+1.machine learnig model of iris flower data set
+
+as of now we have seen what is machine learning and its detail.
+now we are going practical implementation of one simple & best ML model for iris flower dataset.
+
+Ml model is nothing it is just mathematical function which will give some numeric inputs and gve numeric out puts.
+Data will be always numeric here because machine can understand data only .
+
+
+steps to make ml model
+--------------------------------------
+1.load the dataset
+2.analyse the data set
+3.prepare the data(remove unwanted data,fill blank value,converion etc)
+4.split the data into train and training dataset
+5.Build and Evaluating the Model's Accuracy
+6.save the model and test for live data
+
+
+Keywods
+-----------
+1.input dataset is called attribute or features
+2.output is called label/target
+
+This is supervised classified model becuase here target value is present
+
+
+classified --discrete
+regression -continous
+
+
+iris flower dataset
+-----------------------------
+
+attributes
+
+sepal length
+sepal width
+petal length
+petal width
+
+
