@@ -50,3 +50,7 @@ How K Nearest neighbour algo work
 -----------------------------------------
 it calculate euclidian distance of two instance.
 dis=sqrt((x2-x1)^2+()
+
+
+here basically we need to build a mathematical function
+Y=f(x)
