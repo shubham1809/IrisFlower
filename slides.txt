@@ -1,0 +1,62 @@
+What is Python
+	Python is a programming language created by Guido van Rossum in 1989.
+	Python is an interpreted, object-oriented, dynamic data type of high-level
+	programming languages.(Python Software Foundation 2013). The programming
+	language style is simple, clear and it also contains powerful different kinds of
+	classes.
+-Simple&easy to learn: The concept of this programming language is as simple
+as it can be. That makes it easy for everyone to learn and use. It is easy to
+understand the syntax.
+-Open source: Python is completely free as it is an open source software.
+Several of open source scientific computing storage has the API for Python.
+Users can easy to install Python on their own computer and use the standard
+and extend library.
+-Scalability: Programmers can write their code in C or C++ and run them in
+Python. 
+
+
+why python is used in ML
+-it is simple and easy to learn
+-easy to code .syntax is so simple
+-mostly all framework and library is implemented in python(huge amount of inbuilt library
+-its easy to implement new ideas
+-python is very easy to understand and write a code, not only for machine leaning but also for analytics, programming, web development, statistical analysis..
+
+Most usefule libarary
+--------------------------
+-Numpy,scipy,matplotllib:-
+In Python, there is no data type called array. In order to implement the data type
+of array with python, numpy and scipy are the essential libraries for analyzing
+and calculating data. They are all open source libraries. Numpy is mainly used
+for the matrix calculation. scipy is developed based on numpy and it is mainly
+used for scientific research.
+
+Mathplotlib is a famous library for plotting in Python. It provides a series of API
+and it is suitable for making interactive mapping. In this case, we need to use it
+to find the best result visually. 
+-Pandas(this is python library for data manuplation and data analysis.it offers data structure and operation of manuplating numeric tables and series.
+
+-scikit-learn:-Scikit–learn is an open source machine learning library for the Python
+programming language. It features various classification, regression, and
+clustering algorithms and is designed to interoperate with the Python numerical
+libraries NumPy and SciPy (Pedregosa et al. 2011). SciKit-learn contains the Kmeans
+algorithm based on Python and it helps to figure out how to implement
+this algorithm in programming. 
+
+--tenserflow(it is open source library of python developed by google brain teambu google.this is basically used for machine learning and deep neural networks work)
+
+---
+machine learnig algorithim to build 
+-Load the Dataset
+-summarize ,analyse the dataset
+-cleaning of dataset
+-split dataset to train and test dataset
+-evalutiing machine learning algorithim
+-make prediction
+
+--Practical implementation of Machine learning
+Iris dataset:-
+This is one of the most famous datasets used to illustrate the classification problem. From four characteristics of the flower (the length of the sepal, the width of the sepal, the length of the petal and the width of the petal), the objective is to classify a sample of 150 irises into three species: versicolor, virginica and setosa. 
+
+In the species of this table, 0 represents setosa, 1 represents versicolor, 2
+represents virginica. 
